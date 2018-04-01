@@ -2,6 +2,7 @@ package org.intel.dcg;
 class Solution {
     public String longestPalindrome(String s) {
     	if(s == "" || s.length() == 1){
+    		
     		return s;
     	}
     	String subString = s;
