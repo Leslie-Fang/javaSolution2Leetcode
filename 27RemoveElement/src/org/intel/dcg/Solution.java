@@ -8,7 +8,6 @@ class Solution {
     			point +=1;
     		}
     	}
-    	return point;
-        
+    	return point;   
     }
 }
